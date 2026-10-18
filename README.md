@@ -1081,7 +1081,7 @@ footer p {
             <li><a href="#home">Home</a></li>
              <li><a href="#henna-party">Henna party</a></li>
             <li><a href="#walima">Walima</a></li>
-            <li><a href="#nikah">Nikah</a></li>
+            <li><a href="#nikkah">Nikkah</a></li>
             <li><a href="#wedding-reception">Wedding Reception</a></li>
            
             <li><a href="#details">Details</a></li>
@@ -1214,12 +1214,12 @@ footer p {
 
         <p>
             <strong>Time:</strong>
-            1:00 PM
+            10:00 PM
         </p>
 
         <p>
             <strong>Venue:</strong>
-            Ile saura Agbaji, Ilorin, Kwara State.
+          Agbajii Central Mosque Ilorin, Kwara State.
         </p>
 
     </div>
@@ -1262,7 +1262,7 @@ footer p {
 
         <p>
             <strong>Venue:</strong>
-            Agbaji Mosque, Ilorin Kwara State 
+            Agbaji Central Mosque, Ilorin Kwara State 
         </p>
 
     </div>
